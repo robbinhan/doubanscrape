@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/trunk/doubanscrape
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6/trunk/doubanscrape/manifest.json
+END
+background.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5/trunk/doubanscrape/background.html
+END
+imageinfo-16.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/doubanscrape/imageinfo-16.png
+END
+imageinfo-128.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/doubanscrape/imageinfo-128.png
+END
+imageinfo-48.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/doubanscrape/imageinfo-48.png
+END

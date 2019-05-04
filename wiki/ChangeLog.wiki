@@ -1,0 +1,11 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+2011-04-12 0.2version
+
+
+= Details =
+
+  * 更改了弹出方式，目前是从当前窗口中弹出新标签 
+  * 更改了icon
